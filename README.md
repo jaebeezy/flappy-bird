@@ -7,5 +7,6 @@ You're going to need pygame (version 1.9.6) to run this.
 To install pygame, type:
 > pip3 install pygame
 
+Press any key to make the bird jump. 
 
 Ciao. 
